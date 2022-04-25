@@ -1,6 +1,6 @@
 Hi 👋 My name is Mohamed Saber
 ==============================
-
+<img src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png" alt="Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)" style="max-width: 100%;">
 Mobile Developer(Flutter)
 -------------------------
 
@@ -9,7 +9,7 @@ Mobile Developer(Flutter)
 * ✉️  You can contact me at [mohammed.s.eltwahy@gmail.com](mailto:mohammed.s.eltwahy@gmail.com)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%;">
 # Languages and Tools
 
 <h3 align="left">Languages and Tools:</h3>
