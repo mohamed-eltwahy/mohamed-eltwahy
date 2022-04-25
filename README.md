@@ -4,7 +4,6 @@ Hi 👋 My name is Mohamed Saber
 
 # Mobile Developer(Flutter)
 
--------------------------
 
 * 🌍  I'm based in Cairo.EG
 * 🖥️  See my portfolio at [https://mohamedsaber-portfolio.000webhostapp.com/#/](http://mohamedsaber-portfolio.000webhostapp.com/#/)
