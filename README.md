@@ -30,7 +30,7 @@ Hi there, I'm Mohammed Saber 👋
 * ✉️  You can contact me at [mohammed.s.eltwahy@gmail.com](mailto:mohammed.s.eltwahy@gmail.com)
 * 🧠  I'm learning Flutter and some nodeJs
 * 🤝  I'm open to collaborating on interesting projects
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%;">
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" style="max-width: 100%;"> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
