@@ -19,7 +19,7 @@ Hi there, I'm Mohammed Saber 👋
 <li>Software Engineer</li>
 <li>Mobile developer (cross platform - native)</li>
 </ul>
-<img src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png" alt="Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)" style="max-width: 100%;">
+<!-- <img src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png" alt="Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)" style="max-width: 100%;"> -->
 
 
 
