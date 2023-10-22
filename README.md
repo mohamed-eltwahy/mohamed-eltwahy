@@ -43,7 +43,6 @@ Hi there, I'm Mohammed Saber 👋
 </p>
 
 <!-- # Watch my contributions get eaten by a snake 🐍 -->
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 <!-- <h3 align="left">Socials:</h3>
 
 <p align="left"> <a href="https://www.facebook.com/mohammed.saber21" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammed-saber-30440516b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p> -->
