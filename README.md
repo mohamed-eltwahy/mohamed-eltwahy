@@ -50,7 +50,7 @@ I'm a **Mobile Developer** living in **Cairo** and working at **Freelance**.
  <!-- <img src="https://komarev.com/ghpvc/?username=mohamed-eltwahy&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> -->
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-eltwahy&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-eltwahy&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />-->
 
 ### 📈 Activity
 
