@@ -31,7 +31,7 @@ I'm a **Mobile Developer** living in **Cairo** and working at **Freelance**.
   <img src="https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white" />
 </p>
 
-### **State Management & Architecture **
+### **State Management & Architecture**
 <p align="left">
   <img src="https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Provider-0A6FBA?style=for-the-badge&logo=flutter&logoColor=white" />
